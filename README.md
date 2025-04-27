@@ -1,9 +1,7 @@
 <h2>Portfolio</h2>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lawrence Maduabuchi - Software Engineer</title>
+    
     <style>
         body {
             background-color: #0e0e10;
@@ -90,15 +88,7 @@
 </head>
 <body>
 
-<header>
-    <h1>Lawrence Maduabuchi</h1>
-    <p>Software Engineer | ICT Consultant | Cloud Enthusiast</p>
-    <nav>
-        <a href="#about">About</a>
-        <a href="#projects">Projects</a>
-        <a href="#contact">Contact</a>
-    </nav>
-</header>
+
 
 <section id="about" class="card">
     <h2>About Me</h2>
