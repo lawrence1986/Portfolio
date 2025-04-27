@@ -1,5 +1,93 @@
-# Portfolio
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lawrence Maduabuchi - Software Engineer</title>
+    <style>
+        body {
+            background-color: #0e0e10;
+            color: #f0f0f0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            line-height: 1.8;
+        }
+        header {
+            padding: 3rem 1rem;
+            text-align: center;
+            background: #1a1a1d;
+        }
+        h1 {
+            font-size: 3rem;
+            color: #00d8ff;
+            margin-bottom: 0.5rem;
+        }
+        h2 {
+            font-size: 2rem;
+            color: #00d8ff;
+            margin-bottom: 1rem;
+        }
+        nav {
+            margin-top: 1.5rem;
+        }
+        nav a {
+            color: #00d8ff;
+            margin: 0 1rem;
+            text-decoration: none;
+            font-weight: bold;
+            font-size: 1rem;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        section {
+            padding: 4rem 2rem;
+            max-width: 960px;
+            margin: auto;
+        }
+        .card {
+            background: #1a1a1d;
+            border-radius: 12px;
+            padding: 2rem;
+            margin-bottom: 3rem;
+            box-shadow: 0 0 10px rgba(0, 216, 255, 0.15);
+        }
+        a {
+            color: #00d8ff;
+        }
+        footer {
+            text-align: center;
+            padding: 2rem 1rem;
+            background: #1a1a1d;
+            font-size: 0.9rem;
+            margin-top: 2rem;
+        }
+        .contact-table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        .contact-table td {
+            padding: 8px 10px;
+            vertical-align: top;
+        }
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 2.2rem;
+            }
+            h2 {
+                font-size: 1.6rem;
+            }
+            nav a {
+                display: block;
+                margin: 10px 0;
+            }
+            section {
+                padding: 2rem 1rem;
+            }
+        }
+    </style>
+</head>
 <body>
 
 <header>
@@ -14,38 +102,37 @@
 
 <section id="about" class="card">
     <h2>About Me</h2>
-    <p>Hello! I'm <strong>Lawrence Maduabuchi</strong>, a passionate Software Engineer and ICT Consultant based in Port Harcourt, Nigeria. 
-       I specialize in developing custom software solutions, system integrations, and cloud-based infrastructure that empower businesses to scale and succeed. 
-       With a strong background in software engineering, Windows/Linux administration, and digital transformation, I help organizations drive real change through technology.</p>
+    <p>Hello! I'm <strong>Lawrence Maduabuchi</strong>, a passionate Software Engineer and ICT Consultant based in Port Harcourt, Nigeria.
+    I specialize in designing software solutions, cloud infrastructure, system automation, and business digitization. I’m driven by the goal of empowering businesses through scalable and efficient technologies.</p>
 </section>
 
 <section id="projects" class="card">
     <h2>My Projects</h2>
 
-    <h3>✔️ Residential Suit Management App</h3>
-    <p>Developed a checklist and maintenance system using Power Apps and SharePoint List to streamline residential operations.</p>
+    <h3>✔️ Residential Suite Management App</h3>
+    <p>Built a facility management solution with Microsoft Power Apps and SharePoint, streamlining property maintenance operations.</p>
 
     <h3>✔️ Legacy System Deployment on AlmaLinux</h3>
-    <p>Successfully migrated and deployed a critical database system onto an on-premises AlmaLinux environment.</p>
+    <p>Migrated and deployed a mission-critical legacy system with database support on AlmaLinux OS, ensuring enhanced performance and security.</p>
 
-    <h3>✔️ Transportation Optimization with SUMO</h3>
-    <p>Designed a simulation-based model for optimizing multi-modal transportation networks using SUMO (Simulation of Urban Mobility).</p>
+    <h3>✔️ Multi-modal Transportation Network Optimization</h3>
+    <p>Used SUMO (Simulation of Urban Mobility) to model and optimize urban transportation networks for better traffic flow and resource efficiency.</p>
 
     <h3>✔️ Microsoft 365 + Viva Engage Solutions</h3>
-    <p>Built modern collaboration systems using SharePoint, Teams, and Viva Engage to enhance internal communication across departments.</p>
+    <p>Implemented collaborative digital workplace solutions using Microsoft 365, Viva Engage, and SharePoint for enterprise communication enhancement.</p>
 </section>
 
 <section id="contact" class="card">
     <h2>Contact Me</h2>
-    <p>Let's collaborate or chat about tech ideas!</p>
+    <p>Let’s connect and build something great!</p>
     <table class="contact-table">
         <tr>
             <td>📧</td>
-            <td><a href="mailto:madusquare@gmail.com">madusquare@gmail.com</a></td>
+            <td><a href="mailto:lawrencemaduabuchi@gmail.com">lawrencemaduabuchi@gmail.com</a></td>
         </tr>
         <tr>
             <td>📞</td>
-            <td>(234) 806-548-4243</td>
+            <td>(234) 816-763-7212</td>
         </tr>
         <tr>
             <td>📍</td>
@@ -53,11 +140,11 @@
         </tr>
         <tr>
             <td>⬇️</td>
-            <td><a href="https://your-portfolio-link.com/Profile.pdf">Download my CV</a></td>
+            <td><a href="https://your-github-username.github.io/your-repo-name/Profile.pdf">Download my CV</a></td>
         </tr>
         <tr>
             <td>🌐</td>
-            <td><a href="https://www.linkedin.com/in/lawrence-maduabuchi/">My LinkedIn</a></td>
+            <td><a href="https://linkedin.com/in/lawrencemaduabuchi">Visit my LinkedIn Profile</a></td>
         </tr>
     </table>
 </section>
