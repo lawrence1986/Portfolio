@@ -26,8 +26,7 @@ A snapshot of some projects I've been proud to contribute to.
 Multi-Modal Transportation Network Simulation Using SUMO
 Built a smart traffic simulation system using SUMO, Python, and XML to optimize transportation networks and minimize congestion in urban areas.
 
-SUMO SETUP EXE.png
-GEOLOCATION.png
+GEOLOCATION.jpeg
 
 Residential Facility Checklist App (PowerApps & SharePoint)
 Developed a low-code application for real-time residential suite management, streamlining inspections and reporting using Microsoft Power Platform.
