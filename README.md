@@ -1,10 +1,11 @@
 <!-- Section 1: Introduce Yourself -->
-ABOUT ME
+
+## ABOUT ME
 Hello! I'm Lawrence Maduabuchi 👨‍💻, a passionate Software Engineer and ICT Consultant dedicated to building innovative, scalable, and efficient solutions. With a strong background in full-stack development, system integration, and cloud technologies, I help businesses and organizations leverage software to drive growth, optimize operations, and deliver exceptional user experiences.
 
 <!-- Mention your top/relevant skills here - core and soft skills -->
-WHAT I DO
-As a seasoned Software Engineer, I specialize in developing high-quality applications and providing strategic ICT consulting services.
+## WHAT I DO
+* As a seasoned Software Engineer, I specialize in developing high-quality applications and providing strategic ICT consulting services.
 
 ✅ Software Development & Engineering
 I design, develop, and deploy robust software solutions — from web applications to enterprise-grade systems — ensuring efficiency, scalability, and security.
@@ -19,7 +20,7 @@ I analyze and optimize existing systems, automate processes, and deliver strateg
 I mentor aspiring developers and teams, helping them sharpen their technical skills and adopt best practices in modern software development.
 
 <!-- Section 2: List 3-4 key projects -->
-MY PORTFOLIO
+## MY PORTFOLIO
 A snapshot of some projects I've been proud to contribute to.
 
 Multi-Modal Transportation Network Simulation Using SUMO
@@ -37,7 +38,7 @@ Led the design and partial implementation of a modern, secure document managemen
 (More project details available upon request or via portfolio download.)
 
 <!-- Contact Section -->
-CONTACT DETAILS
+## CONTACT DETAILS
 Let’s connect and create amazing things together!
 
 <table> <tbody> <tr> <td>📧</td> <td><a href="mailto:madusquare@gmail.com">madusquare@gmail.com</a></td> </tr> <tr> <td>📞</td> <td>(+234) 816-763-7212</td> </tr> <tr> <td>📍</td> <td>Port Harcourt, Rivers State, Nigeria</td> </tr> <tr> <td>⬇️</td> <td><a href="https://yourportfolio.link/docs/Profile.pdf">Download my CV</a></td> </tr> <tr> <td>🌐</td> <td><a href="https://www.linkedin.com/in/lawrence-maduabuchi/">Follow my journey on LinkedIn</a></td> </tr> <tr> <td>📺</td> <td><a href="https://www.youtube.com/">Watch my tutorials on YouTube</a></td> </tr> </tbody> </table>
