@@ -5,7 +5,7 @@ Hello! I'm Lawrence Maduabuchi 👨‍💻, a passionate Software Engineer and I
 
 <!-- Mention your top/relevant skills here - core and soft skills -->
 ## WHAT I DO
-* As a seasoned Software Engineer, I specialize in developing high-quality applications and providing strategic ICT consulting services.
+As a seasoned Software Engineer, I specialize in developing high-quality applications and providing strategic ICT consulting services.
 
 ✅ Software Development & Engineering
 I design, develop, and deploy robust software solutions — from web applications to enterprise-grade systems — ensuring efficiency, scalability, and security.
@@ -25,6 +25,9 @@ A snapshot of some projects I've been proud to contribute to.
 
 Multi-Modal Transportation Network Simulation Using SUMO
 Built a smart traffic simulation system using SUMO, Python, and XML to optimize transportation networks and minimize congestion in urban areas.
+
+SUMO SETUP EXE.png
+GEOLOCATION.png
 
 Residential Facility Checklist App (PowerApps & SharePoint)
 Developed a low-code application for real-time residential suite management, streamlining inspections and reporting using Microsoft Power Platform.
