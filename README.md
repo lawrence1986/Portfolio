@@ -29,11 +29,18 @@ Built a smart traffic simulation system using SUMO, Python, and XML to optimize 
 ![image](SUMO SETUP EXE.jpeg)
 ![image](GEOLOCATION.jpeg)
 ![image](SUMO UI.jpeg)
-
+<p>
+  
+</p>
 Residential Facility Checklist App (PowerApps & SharePoint)
 Developed a low-code application for real-time residential suite management, streamlining inspections and reporting using Microsoft Power Platform.
-
-
+![image](task welcome page.jpg)
+![image](manager.jpg)
+![image](task console.jpg)
+![image](report.jpg)
+<p>
+  
+</p>
 Legacy System Deployment on AlmaLinux OS
 Successfully migrated and deployed a legacy database-driven system on an on-premise AlmaLinux server, ensuring high availability and data integrity.
 ![image](thumbnail_image (1).png)
