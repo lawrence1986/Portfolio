@@ -33,11 +33,20 @@ Built a smart traffic simulation system using SUMO, Python, and XML to optimize 
 Residential Facility Checklist App (PowerApps & SharePoint)
 Developed a low-code application for real-time residential suite management, streamlining inspections and reporting using Microsoft Power Platform.
 
+
 Legacy System Deployment on AlmaLinux OS
 Successfully migrated and deployed a legacy database-driven system on an on-premise AlmaLinux server, ensuring high availability and data integrity.
 
 Document Management System Implementation (Microsoft 365 Ecosystem)
 Led the design and partial implementation of a modern, secure document management system to digitize and manage records effectively for a corporate organization.
+
+School Management Solution - Nortify
+Nortify is a cloud-based, all‑in‑one School Management System (SMS) tailored for primary and secondary schools. It streamlines administration, communication, finance, academics, and data storage across phones, tablets, and PCs. It has modules such as Exams and Record, Smart Fee Manager, Student Information System, Smart Messaging, Smart Admission Engine
+![image](LOGIN SCREEN.jpg)
+![image](WELCOME DASHBOARD.jpg)
+![image](STUDENT INFORMATION SYSTEM.jpg)
+![image](HR & PAYROLL.jpg)
+
 
 (More project details available upon request or via portfolio download.)
 
