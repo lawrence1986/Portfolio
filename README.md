@@ -46,8 +46,51 @@ Successfully migrated and deployed a legacy database-driven system on an on-prem
 ![image](thumbnail_image (1).png)
 ![image](thumbnail_image.png)
 
-Document Management System Implementation (Microsoft 365 Ecosystem)
-Led the design and partial implementation of a modern, secure document management system to digitize and manage records effectively for a corporate organization.
+<b>Visitors Management System</b> is a digital solution that helps organizations track, manage, and document visitor activity within their premises. It replaces traditional paper logbooks with a secure, efficient, and user-friendly platform.
+<table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+  <thead style="background-color: #f2f2f2;">
+    <tr>
+      <th>Feature</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Digital Check-In/Out</strong></td>
+      <td>Visitors sign in using a tablet, kiosk, or web form; often with ID capture, photo, and signature.</td>
+    </tr>
+    <tr>
+      <td><strong>Visitor Badge Printing</strong></td>
+      <td>Instantly prints personalized badges with name, purpose, host, and photo.</td>
+    </tr>
+    <tr>
+      <td><strong>Host Notifications</strong></td>
+      <td>Notifies the host via SMS, email, or in-app alert when their visitor arrives.</td>
+    </tr>
+    <tr>
+      <td><strong>Pre-Registration</strong></td>
+      <td>Staff can pre-register visitors to speed up entry and security screening.</td>
+    </tr>
+    <tr>
+      <td><strong>Watchlist Screening</strong></td>
+      <td>Cross-checks visitors against blacklists or security databases.</td>
+    </tr>
+    <tr>
+      <td><strong>Access Control Integration</strong></td>
+      <td>Syncs with gates, turnstiles, or access cards to allow or restrict movement.</td>
+    </tr>
+    <tr>
+      <td><strong>Analytics & Reporting</strong></td>
+      <td>Generates reports on daily/weekly visitors, peak times, frequent visitors, etc.</td>
+    </tr>
+    <tr>
+      <td><strong>Health & Safety Checks</strong></td>
+      <td>Can include COVID-19 questionnaires, temperature checks, or NDAs before entry.</td>
+    </tr>
+  </tbody>
+</table>
+![image](visitor welcome screen.jpg)
+![image](reg interface.jpg)
 
 School Management Solution - Nortify
 Nortify is a cloud-based, all‑in‑one School Management System (SMS) tailored for primary and secondary schools. It streamlines administration, communication, finance, academics, and data storage across phones, tablets, and PCs. It has modules such as Exams and Record, Smart Fee Manager, Student Information System, Smart Messaging, Smart Admission Engine
