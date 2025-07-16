@@ -36,6 +36,8 @@ Developed a low-code application for real-time residential suite management, str
 
 Legacy System Deployment on AlmaLinux OS
 Successfully migrated and deployed a legacy database-driven system on an on-premise AlmaLinux server, ensuring high availability and data integrity.
+![image](thumbnail_image (1).png)
+![image](thumbnail_image.png)
 
 Document Management System Implementation (Microsoft 365 Ecosystem)
 Led the design and partial implementation of a modern, secure document management system to digitize and manage records effectively for a corporate organization.
